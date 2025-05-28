@@ -1,0 +1,9 @@
+flask
+easyocr
+opencv-python
+pytesseract
+transformers
+torch
+scikit-learn
+pdf2image
+Pillow

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Extraction Result</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h2>Document Type: {{ doc_type }}</h2>
+    <h3>Extracted Fields:</h3>
+    <ul>
+        {% for key, value in fields.items() %}
+            <li><strong>{{ key }}:</strong> {{ value }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Upload Another</a>
+</body>
+</html>
