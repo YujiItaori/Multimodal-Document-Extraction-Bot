@@ -137,6 +137,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Let me know if you'd like the README to include a GIF demo, API usage, or deployment instructions.*
-
-![Screenshot 2025-05-28 124136](https://github.com/user-attachments/assets/134a3152-ad65-4134-b0bf-6ffcdef8c9a9)
-![Screenshot 2025-05-28 124148](https://github.com/user-attachments/assets/ad1424ad-01e4-44a1-a485-027ff759dcc2)
